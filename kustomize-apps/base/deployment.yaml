@@ -5,7 +5,7 @@ metadata:
  labels:
    deployment: demo
 spec:
-  replicas: 1
+  replicas: 100
   template:
     metadata:
       labels:
